@@ -25,8 +25,4 @@
   </a>
 </div>
 <br/>
-<p align="center">
-  <a href="https://github.com/Duc-Thien-IT">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Duc-Thien-IT&theme=react" alt="Duc-Thien-IT">
-  </a>
-</p>
+
